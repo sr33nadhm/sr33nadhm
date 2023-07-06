@@ -5,7 +5,8 @@ Hi there! I'm Sreenadh, somebody who's just trying to get through this crazy wor
 ### Quick Facts ⏩
 
 * LinkedIn (w/ resume): <https://www.linkedin.com/in/sreenadh-m/>
-* Pronouns: He/Him
+* Experience: 4 years
+* Skills and Tools: Java Spring Boot, Node.js, Angular, React
 
 #### Code Graveyard Disclaimer ☠️
 
