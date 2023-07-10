@@ -10,7 +10,7 @@ Hi there! I'm Sreenadh, somebody who's just trying to get through this crazy wor
 
 #### Code Graveyard Disclaimer ☠️
 
-So it seems as though you found my GitHub profile! That's exciting for you, and scary for me, seeing as a far amount of this profile is graveyard projects from college or what I have tried out previously. No worries! Feel free to look around still - I can't stop you - but remember that **much of this code was written was I was just a student**. Most of my newer code is proprietary (for the moment) so I can't really share it, but feel free to read the sections below on what I'm focusing on.
+So it seems you found my GitHub profile! That's exciting for you, and scary for me, seeing as a far amount of this profile is graveyard projects from college or what I have tried out previously. No worries! Feel free to look around still - I can't stop you - but remember that **much of this code was written when I was exploring them**. Most of my newer code is proprietary (for the moment) so I can't really share it, but feel free to read the sections below on what I'm focusing on.
 
 ---
 
@@ -22,10 +22,9 @@ Honestly, the best way to reach out to me is probably either via a Direct Messag
 
 #### Current Projects 👨‍💻
 
-I am working on internal/proprietary projects in my current company. I am exploring new cloud infrastructures like IBM Cloud, catching up with technology stacks that will help my projects migrate.
+I am actively looking for opportunities, as a freelancer or contractor. I have valid work permits in Belgium and India. I am working on internal/proprietary projects in my current company. I am exploring new cloud infrastructures like IBM Cloud, catching up with technology stacks that will help my projects migrate.
 
 Also, I am spending my time on experimenting web3 libraries and going through courses to get certified in solidity.
-
 
 ## &#x1f4c8; My GitHub Stats
 
